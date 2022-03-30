@@ -1,0 +1,38 @@
+#container{
+    display: flex;
+  }
+  #sidebar{
+    width: 200px;
+    height: 500px;
+    border: 1px solid black;
+    
+  }
+
+  #left{
+    height: 300px;
+    width: 1100px;
+    display: flex;
+    border: 1px solid black;
+    margin-bottom: 100px;
+
+  }
+  #right{
+    height: 300px;
+    width: 300px;
+  }
+  #second{
+    border: 1px solid gray;
+
+  }
+  #first{
+    border: 1px solid gray;
+
+  }
+  #third{
+    border: 1px solid gray;
+
+  }
+  img{
+    height: 300px;
+    width: 400px;
+  }
